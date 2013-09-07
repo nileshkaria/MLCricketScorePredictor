@@ -128,7 +128,6 @@ void YAMLParser::readFile(const string &rLocation)
       }
     }
 
-    //@TODO - Test this line of code
     if(fallOfWicket)
       partnership = 0;
     
